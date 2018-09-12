@@ -5,10 +5,10 @@ https://github.com/kamranahmedse/developer-roadmap
 Roadmap to becoming a mobile developer in 2018.
 
 ## Mobile Roadmap
-![](https://raw.githubusercontent.com/tientnvn/mobile-developer-roadmap/blob/master/Images/intro_roadmap_v1.0.png)
+![](https://github.com/tientnvn/mobile-developer-roadmap/blob/master/Images/intro_roadmap_v1.0.png)
 
 ## Android Roadmap
-![](https://raw.githubusercontent.com/tietnvn/android-developer-roadmap/blob/images/android_roadmap_v1.0.png
+![](https://github.com/tientnvn/android-developer-roadmap/blob/images/android_roadmap_v1.0.png
     )
 
 ## Mockup Files
